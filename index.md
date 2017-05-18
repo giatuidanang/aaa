@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Chào mừng đến với trang Giặt Ủi Đà Nẵng
 
-You can use the [editor on GitHub](https://github.com/giatuidanang/giatuidanang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hằng ngày, bạn phải lo trăm công nghìn việc ở cơ quan, khi về đến nhà lại phải dọn dẹp nhà cửa, nấu ăn, giặt quần áo,... Nếu nhà bạn có người giúp việc thì công việc nội trợ chẳng cần đến bạn, nhưng khi nhà không có người giúp việc, đi làm về, bạn sẽ phải làm tất cả các công việc nhà? Có quá nhiều việc để bạn phải làm, trong đó, giặt quần áo chiếm rất nhiều thời gian, nào là giặt - phơi - ủi - xếp,... Bạn nên tìm một dịch vụ giặt ủi để giúp bạn làm những công việc đó, vừa tiết kiệm thời gian lại vừa tiết kiệm bạc.
 
 ### Markdown
 
